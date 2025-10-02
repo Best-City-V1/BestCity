@@ -98,9 +98,12 @@ Special thanks to the BestCity team for inspiration and the React/Tailwind CSS c
 
 ## Getting Started
 - Prerequirements:<br/>
-  Node v20.x.x
+  `Node v22.x.x` or above
 - Installing Dependecies:<br/>
-  npm install 
+  ```bash
+  npm install
+  ```
 -  Running project:<br/>
-  npm start
-
+    ```bash
+    npm start
+    ```
